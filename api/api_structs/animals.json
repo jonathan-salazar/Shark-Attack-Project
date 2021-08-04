@@ -1,0 +1,52 @@
+{
+  "animals":[
+      {
+        "common_name": "Semi-collared Hawk",
+        "scientific_name": "Accipiter collaris",
+        "vulnerability_status": "vulnerable",
+        "citation": "Campbell, J. 2007. Abronia oaxacae. The IUCN Red List of Threatened Species 2007: e.T63685A12697055. http://dx.doi.org/10.2305/IUCN.UK.2007.RLTS.T63685A12697055.en",
+        "conservation_measure": "Resource & habitat protection",
+        "video_url": "https://www.youtube.com/watch?v=vy2RKH2v5_E",
+        "imageLink": "http://faculty.ucr.edu/~chappell/INW/birds3raptors/semicollaredhawk019.jpg",
+        "webLink": "http://apiv3.iucnredlist.org/api/v3/website/Accipiter collaris",
+        "assoc_habitats": [
+          "Forest - Subtropical/Tropical Moist Montane"
+        ],
+        "assoc_threats": [
+          "Annual & perennial non-timber crops",
+          "Agro-industry farming",
+          "Livestock farming & ranching",
+          "Agro-industry grazing, ranching or farming",
+          "Work & other activities"
+        ],
+        "assoc_countries": [
+          "Colombia",
+          "Ecuador",
+          "Peru",
+          "Venezuela, Bolivarian Republic of"
+        ]
+      },
+      {
+        "common_name": "Reid's Arboreal Alligator Lizard",
+        "scientific_name": "Abronia reidi",
+        "vulnerability_status": "Data Deficient",
+        "citation": "Flores-Villela, O. & Lopez-Luna, M.A. 2007. Abronia reidi. The IUCN Red List of Threatened Species 2007: e.T63689A12697921. http://dx.doi.org/10.2305/IUCN.UK.2007.RLTS.T63689A12697921.en",
+        "conservation_measure": "Site/area management",
+        "video_url": "https://www.youtube.com/watch?v=cUgHxoI3mFk",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arboreal_Alligator_Lizard_Abronia_graminea_2900px.jpg/1200px-Arboreal_Alligator_Lizard_Abronia_graminea_2900px.jpg",
+        "webLink": "http://apiv3.iucnredlist.org/api/v3/website/Abronia reidi",
+        "assoc_habitats": [
+          "Forest - Subtropical/Tropical Moist Montane"
+        ],
+        "assoc_threats": [
+          "Annual & perennial non-timber crops",
+          "Small-holder farming",
+          "Logging & wood harvesting",
+          "Motivation Unknown/Unrecorded"
+        ],
+        "assoc_countries": [
+          "Mexico"
+        ]
+      }
+    ]
+  }

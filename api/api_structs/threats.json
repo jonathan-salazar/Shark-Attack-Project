@@ -1,0 +1,63 @@
+{
+    "threats":[
+    {
+      "name": "Agro-industry farming",
+      "image": "http://www.blog.kpmgafrica.com/wp-content/uploads/2013/04/watering_field.jpg",
+      "timing": "ongoing",
+      "severity": "4.5",
+      "assoc_animals": [
+        "Desert Lidless Skink",
+        "Chaco Side-necked Turtle",
+        "Two-streaked Snake-eyed Skink",
+        "Be’er Sheva Fringe-fingered Lizard",
+        "Semi-collared Hawk",
+        "Oaxaca Arboreal Alligator Lizard",
+        "Long-faced Loach",
+        "Wattled Guan",
+        "Terrestrial Arboreal Alligator Lizard",
+        "Nicobar Sparrowhawk",
+        "Brown Pricklenape"
+      ],
+      "assoc_habitats": [
+        "Wetlands (inland) - Shrub Dominated Wetlands",
+        "Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "Forest - Temperate",
+        "Grassland - Temperate",
+        "Forest - Subtropical/Tropical Moist Lowland",
+        "Desert - Temperate",
+        "Artificial/Aquatic - Ponds (below 8ha)",
+        "Shrubland - Subtropical/Tropical Dry",
+        "Artificial/Terrestrial - Rural Gardens",
+        "Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha)",
+        "Forest - Subtropical/Tropical Moist Montane",
+        "Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest",
+        "Wetlands (inland) - Freshwater Springs and Oases",
+        "Artificial/Terrestrial - Plantations",
+        "Shrubland - Temperate",
+        "Grassland - Subtropical/Tropical Seasonally Wet/Flooded"
+      ]
+    },
+    {
+      "name": "Problematic native species/diseases",
+      "image": "http://weedcontrolfreaks.com/wp-content/uploads/2013/07/Wheat_Beans.jpg",
+      "timing": "ongoing",
+      "severity": "4.5",
+      "assoc_animals": [
+        "Chaco Side-necked Turtle",
+        "Be’er Sheva Fringe-fingered Lizard",
+        "Blanc's Fringe-toed Lizard"
+      ],
+      "assoc_habitats": [
+        "Wetlands (inland) - Shrub Dominated Wetlands",
+        "Forest - Temperate",
+        "Artificial/Aquatic - Ponds (below 8ha)",
+        "Shrubland - Subtropical/Tropical Dry",
+        "Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha)",
+        "Artificial/Terrestrial - Plantations",
+        "Shrubland - Mediterranean-type Shrubby Vegetation",
+        "Marine Coastal/Supratidal - Coastal Sand Dunes",
+        "Grassland - Subtropical/Tropical Seasonally Wet/Flooded"
+      ]
+    }
+  ]
+}

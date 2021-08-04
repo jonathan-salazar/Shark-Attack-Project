@@ -1,0 +1,62 @@
+{
+    "habitats":[
+    {
+      "name": "Artificial/Aquatic - Ponds (below 8ha)",
+      "image": "http://thumb1.shutterstock.com/display_pic_with_logo/1771478/323878760/stock-photo-small-artificial-decorative-pond-with-rocks-and-plants-on-the-backyard-in-summer-323878760.jpg",
+      "suitability": "Suitable",
+      "assoc_animals": [
+        "Chaco Side-necked Turtle"
+      ],
+      "assoc_countries": [
+        "Paraguay",
+        "Argentina",
+        "Bolivia, Plurinational States of"
+      ],
+      "assoc_threats": [
+        "Temperature extremes",
+        "Livestock farming & ranching",
+        "Problematic native species/diseases",
+        "Intentional use: (subsistence/small scale) [harvest]",
+        "Droughts",
+        "Agro-industry grazing, ranching or farming",
+        "Fishing & harvesting aquatic resources",
+        "Agro-industry farming",
+        "Annual & perennial non-timber crops"
+      ]
+    },
+    {
+      "name": "Wetlands (inland) - Permanent Freshwater Lakes (over 8ha)",
+      "image": "https://i.pinimg.com/736x/8e/02/bf/8e02bf33325bbdc7efd4692c6d5c55b3--freshwater-fish-be-free.jpg",
+      "suitability": "Suitable",
+      "assoc_animals": [
+        "Caucasian Bream",
+        "Damascus Bream",
+        "Long-spine Bream",
+        "Jordan Bream"
+      ],
+      "assoc_countries": [
+        "Turkey",
+        "Israel",
+        "Georgia",
+        "Iran, Islamic Republic of",
+        "Azerbaijan",
+        "Syrian Arab Republic",
+        "Jordan",
+        "Armenia",
+        "Palestinian Territory, Occupied"
+      ],
+      "assoc_threats": [
+        "Large dams",
+        "Abstraction of surface water (domestic use)",
+        "Abstraction of ground water (domestic use)",
+        "Droughts",
+        "Abstraction of surface water (agricultural use)",
+        "Sewage",
+        "Abstraction of ground water (agricultural use)",
+        "Dams & water management/use",
+        "Small dams",
+        "Domestic & urban waste water"
+      ]
+    }
+  ]
+}
